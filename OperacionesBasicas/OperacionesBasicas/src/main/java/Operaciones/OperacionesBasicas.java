@@ -42,6 +42,5 @@ public class OperacionesBasicas {
         JOptionPane.showMessageDialog(null, "el resultado es: "+result);
         }
             JOptionPane.showMessageDialog(null,"adios");        
-    }
-    
+    }   //Se elimino codigo que hacia exactamente lo mismo.
 }
