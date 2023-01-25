@@ -27,8 +27,8 @@ public class OperacionesBasicas {
         opc=Integer.parseInt(JOptionPane.showInputDialog("Ingrese una opcion:\n1.-sumar    2.-restar   3.-multiplicar  4.-dividir  otro.-salir "));
 
         if(opc>0&&opc<5){
-            dato1=Integer.parseInt(JOptionPane.showInputDialog("ingrese primer numero: "));
-            dato2=Integer.parseInt(JOptionPane.showInputDialog("ingrese segundo numero numero: "));
+            dato1=Integer.parseInt(JOptionPane.showInputDialog("Ingrese el primer numero: "));
+            dato2=Integer.parseInt(JOptionPane.showInputDialog("Ingrese el segundo numero: ")); //Se elimino palabra duplicada
         if(opc!=0){
             if(opc==1)
                 result=dato1+dato2;
