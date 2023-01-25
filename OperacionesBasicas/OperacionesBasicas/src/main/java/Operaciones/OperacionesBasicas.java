@@ -23,9 +23,8 @@ public class OperacionesBasicas {
         //se agrega ventana emergente 
         JFrame jFrame = new JFrame();
         JOptionPane.showMessageDialog(jFrame, "OPERACIONES BASICAS");
-        System.out.println("1.-sumar    2.-restar   3.-multiplicar  4.-dividir  otro numero.-salir");
-        System.out.println("seleccione una opcion: ");
-        opc=Integer.parseInt(JOptionPane.showInputDialog("ingrese opcion: "));
+        //Agregar en la ventana emergente las opciones a elegír
+        opc=Integer.parseInt(JOptionPane.showInputDialog("Ingrese una opcion:\n1.-sumar    2.-restar   3.-multiplicar  4.-dividir  otro.-salir "));
 
         if(opc>0&&opc<5){
             dato1=Integer.parseInt(JOptionPane.showInputDialog("ingrese primer numero: "));
