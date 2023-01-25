@@ -5,6 +5,7 @@
  */
 package Operaciones;
 
+import javax.swing.JFrame; // Se agrega import para ventana emergente
 import javax.swing.JOptionPane;
 
 /**
@@ -18,8 +19,10 @@ public class OperacionesBasicas {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        float opc=0,dato1=0,dato2=0,result=0;
-
+        float opc = 0,dato1 = 0,dato2 = 0,result = 0;
+        //se agrega ventana emergente 
+        JFrame jFrame = new JFrame();
+        JOptionPane.showMessageDialog(jFrame, "OPERACIONES BASICAS");
         System.out.println("1.-sumar    2.-restar   3.-multiplicar  4.-dividir  otro numero.-salir");
         System.out.println("seleccione una opcion: ");
         opc=Integer.parseInt(JOptionPane.showInputDialog("ingrese opcion: "));
