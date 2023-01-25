@@ -38,12 +38,9 @@ public class OperacionesBasicas {
                 result=dato1*dato2;
             if(opc==4)
                 result=dato1/dato2;
-            System.out.print("el resultado es: ");
-            System.out.println(result);
         }
         JOptionPane.showMessageDialog(null, "el resultado es: "+result);
         }
-            System.out.println("saliendo...");
             JOptionPane.showMessageDialog(null,"adios");        
     }
     
