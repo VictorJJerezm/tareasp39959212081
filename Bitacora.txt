@@ -1,0 +1,47 @@
+commit c7f3af06b914c10c660c874c6c3b0044da7e6ef5
+Author: Victor Jerez <vjerezm@miumg.edu.gt>
+Date:   Tue Jan 24 22:57:54 2023 -0600
+
+    Se agregan cambios
+
+commit 35606a7614709ee8ea4ab72005c0aa5b7b36ce9c
+Author: Victor Jerez <vjerezm@miumg.edu.gt>
+Date:   Tue Jan 24 21:55:28 2023 -0600
+
+    Se agrega mensaje
+
+commit 6c11eb10382c413b87836377da25e2604788255e
+Author: Victor Jerez <vjerezm@miumg.edu.gt>
+Date:   Tue Jan 24 21:48:20 2023 -0600
+
+    Se elimino codigo duplicado
+
+commit 8dee5a5efe937f43cf89891e60d8f345f4ea0b66
+Author: Victor Jerez <vjerezm@miumg.edu.gt>
+Date:   Tue Jan 24 21:39:16 2023 -0600
+
+    Se elimina una palabra duplicada
+
+commit 7b961864600955531bf48945e8f46de27c1fe423
+Author: Victor Jerez <vjerezm@miumg.edu.gt>
+Date:   Tue Jan 24 21:36:25 2023 -0600
+
+    Mostrar las opciones donde se ingresa la info
+
+commit 68a627770ed3dbeaec36f8cff33dd6cda6ddbbd2
+Author: Victor Jerez <vjerezm@miumg.edu.gt>
+Date:   Tue Jan 24 21:26:17 2023 -0600
+
+    Se agrega una ventana emergente
+
+commit b4d0492bad40e8d1c6ad077e04f18de164ced5eb
+Author: Victor Jerez <vjerezm@miumg.edu.gt>
+Date:   Tue Jan 24 21:20:23 2023 -0600
+
+    Se agregan programas
+
+commit d707a9430bd36fb02c09583754f3440d66b4f5b7
+Author: VictorJJerezm <98106604+VictorJJerezm@users.noreply.github.com>
+Date:   Mon Jan 23 10:59:16 2023 -0600
+
+    Initial commit
